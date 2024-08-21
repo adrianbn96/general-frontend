@@ -1,0 +1,25 @@
+.div-option-one {
+    border-style: solid;
+    border-radius: 1rem;
+    width: 100%;
+    padding: 1rem;
+    border-width: 0.1rem;
+    background-color: #F5F5F6;
+    margin: 0.3rem
+}
+.div-display-flex {
+    display: flex;
+}
+.div-form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div-form{
+    background-color: white;
+    width: 55rem;
+    border-style: solid;
+    border-width: 0.1rem;
+    padding:  2rem;
+    border-radius: 1rem;
+}
